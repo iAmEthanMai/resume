@@ -2,7 +2,7 @@
 layout: cv
 title: Ethan Mai's CV
 ---
-# Isaac Newton
+# Ethan Mai
 Data Scientist 
 
 <div id="webaddress">
