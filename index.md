@@ -1,91 +1,44 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Ethan Mai's CV
 ---
 # Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+Data Scientist 
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:iam.ethanmai@gmail.com">iam.ethanmai@gmail.com</a>
+| <a href="https://github.com/iAmEthanMai">My github page</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
-
+Working @ [Pipedream Labs](https://i.pipedreamlabs.co/)
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Hyperlogistic Network Optimization
 
 
-### Research interests
+## Work experience
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+`Sep 2022 - Present`
+__Pipedream Labs__
+- Build simulation software and network optimization algorithms with machine learning
+- Skills: Machine Learning, Data Science, Python
 
+`May 2020 - May 2021`
+__Trustii Ai__
+- Full stack developments of the Trustii web application Full stack developments of the Trustii web application 
+- Skills: PostgreSQL · .NET Framework · Selenium · C# · AngularJS · Firebase
+
+
+`Sep 2021 - Sep 2022`
+__Departement of Computer Science and Operationnal Research of the University of Montreal__
+- Teacher assistant
+- Skills: Python, VHDL
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+`2019-2023`
+__University of Montreal__
+- Bacchelor in Computer Science
