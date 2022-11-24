@@ -187,7 +187,7 @@ em {
 
 strong {
 	font-weight: bold;
-	color: #cea5fb;
+	color: #cea5fb !important;
 }
 
 #address {
