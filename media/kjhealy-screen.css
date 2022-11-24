@@ -84,6 +84,10 @@ p code {
 	left: -14%;
 }
 
+p, h1, h2 {
+	color: #6B778D !important;
+}
+
 
 ul { 
 	position: relative;
