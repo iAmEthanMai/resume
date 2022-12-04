@@ -84,8 +84,8 @@ p code {
 	left: -14%;
 }
 
-p, h1 {
-	color: #6B778D !important;
+p, h1, h2, h3, h4 {
+	color: white !important;
 }
 
 
